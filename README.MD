@@ -55,3 +55,6 @@
 </p>
 <h2>Licença<a name="licenc-a"></a></h2>
 <p align="left">Este projeto está licenciado sob a Licença MIT.</p>
+
+<h2>Autor<a name="autor"></a></h2>
+<p align="left">Projeto desenvolvido por murilozend@gmail.com.</p>
