@@ -1,39 +1,47 @@
-PlantManager
+# Nome do Projeto
 
-Technologies   |    Getting started   |    Project   |    Layout   |    License
+<h1 align="center"> Plant Manager</h1>
+<h1 align="center">
+  <img alt="Plantmanager" title="#Plantmanager" src="./assets/logo.svg" />
+</h1>
 
-License Forks Stars
+# Descrição do Projeto
+<p align="center">Desenvolvimento de app para </p>
 
+<p align="center">
+ <a href="#objetivo">Objetivo</a> •
+ <a href="#roadmap">Roadmap</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#contribuicao">Contribuição</a> • 
+ <a href="#licenc-a">Licença</a> • 
+ <a href="#autor">Autor</a>
+</p>
 
-Moveit
+<h1 align="center">
+    <a href="https://pt-br.reactjs.org/">🔗 React</a>
+</h1>
+<p align="center">🚀 Aplicativo para lembrar de regar as plantas, desenvolvido com tecnologias</p>
 
-Test Technologies
-This project was developed using the following technologies:
-
-React Native
-Expo
-TypeScript
-rocket Getting started
-Clone the project and access the folder
-
-$ git clone https://github.com/murilocsfloripa/plantmanager.git && cd plantmanager
-Follow the steps below
-
-# Install the dependencies
-$ yarn install
-
-# Start the project
-$ expo start
-computer Project
-App to always remember to water your plants seedling
-
-This is a project developed during the Next Level Week, presented by @Rocketseat during April 19-25, 2021.
-
-bookmark Layout
-You can view the project layout through the links below:
-
-Layout
-Remembering that you need to have a Figma account to access it.
-
-Memo License
-This project is licensed under the MIT License. See the LICENSE file for details.
+ <ul>
+    <li> 
+        <a href="https://reactivenative.dev/" rel="nofollow">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">React Native</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://expo.io/" rel="nofollow">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">Expo</font>
+            </font>
+        </a>
+    </li>
+    <li>
+        <a href="https://www.typescritplang.org/" rel="nofollow">
+            <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;">TypeScript</font>
+            </font>
+        </a>
+    </li>
+</ul>
