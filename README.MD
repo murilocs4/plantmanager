@@ -47,13 +47,13 @@
 </ul>
 <h2>Instalação<a name="instalação"></a></h2>
     ```bash
-    $ git clone https://github.com/murilocsfloripa/plantmanager.git && cd plantmanager</p>
+    $ git clone https://github.com/murilocsfloripa/plantmanager.git && cd plantmanager
     
-    # Instale as dependências</P>
-    $ yarn install</p>
+    # Instale as dependências
+    $ yarn install
     
-    # Inicie o projeto</p>
-    $ expo start</p>
+    # Inicie o projeto
+    $ expo start
     ```
 
 </p>
