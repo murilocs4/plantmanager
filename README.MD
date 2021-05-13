@@ -7,7 +7,7 @@ License Forks Stars
 
 Moveit
 
-test_tube Technologies
+Test Technologies
 This project was developed using the following technologies:
 
 React Native
