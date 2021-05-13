@@ -46,12 +46,11 @@
     </li>
 </ul>
 <h2>Instalação<a name="instalação"></a></h2>
-<p align="left"> $ git clone https://github.com/murilocsfloripa/plantmanager.git && cd plantmanager
+<p align="left"> $ git clone https://github.com/murilocsfloripa/plantmanager.git && cd plantmanager</p>
+<p align="left">
 # Instale as dependencias
 $ yarn install
 
 # Inicie o rojeto
 $ expo start
-
- </p>
-
+</p>
