@@ -18,10 +18,9 @@
 </h1>
 
 <h2>Objetivo<a name="objetivo"></a></h2>
-<p align="left">🚀 Aplicativo para lembrar de regar as plantas, desenvolvido com tecnologias:</p>
+<p align="left">🚀 Aplicativo para lembrar de regar as plantas</p>
  
-<h4 align="center"> 
-	#Tecnologias
+<h2>Tecnologias<a name="tecnologias"></a></h2>
 </h4>
  <ul>
     <li> 
