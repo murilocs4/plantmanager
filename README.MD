@@ -14,6 +14,10 @@
  <a href="#autor">Autor</a>
 </p>
 
+<h1 align="center">
+  <img alt="Plantmanager" title="#Plantmanager" src="./assets/plantmanager-preview.png" />
+</h1>
+
 
 <p align="center">🚀 Aplicativo para lembrar de regar as plantas, desenvolvido com tecnologias:</p>
  
