@@ -46,8 +46,9 @@
     </li>
 </ul>
 <h2>Instalação<a name="instalação"></a></h2>
-    ```
-    <$ git clone https://github.com/murilocsfloripa/plantmanager.git && cd plantmanager
+    
+    ```bash
+    $ git clone https://github.com/murilocsfloripa/plantmanager.git && cd plantmanager
     
     # Instale as dependências
     $ yarn install
@@ -55,7 +56,6 @@
     # Inicie o projeto
     $ expo start>
     ```
-
 </p>
 <h2>Licença<a name="licenc-a"></a></h2>
 <p align="left">Este projeto está licenciado sob a Licença MIT.</p>
