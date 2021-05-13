@@ -18,10 +18,12 @@
   <img alt="Plantmanager" title="#Plantmanager" src="./assets/plantmanager-preview.png" />
 </h1>
 
-
+<h4 align="center"> 
+	#Objetivo
+</h4>
 <p align="center">🚀 Aplicativo para lembrar de regar as plantas, desenvolvido com tecnologias:</p>
  
-<h4 align="left"> 
+<h4 align="center"> 
 	#Tecnologias
 </h4>
  <ul>
