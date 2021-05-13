@@ -15,8 +15,11 @@
 </p>
 
 
-<p align="center">🚀 Aplicativo para lembrar de regar as plantas, desenvolvido com tecnologias</p>
-
+<p align="center">🚀 Aplicativo para lembrar de regar as plantas, desenvolvido com tecnologias:</p>
+ 
+<h4 align="center"> 
+	#Tecnologias
+</h4>
  <ul>
     <li> 
         <a href="https://reactivenative.dev/" rel="nofollow">
