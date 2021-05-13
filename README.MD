@@ -53,3 +53,5 @@
     <p align="left">$ expo start</p>
 
 </p>
+<h2>Licença<a name="licenc-a"></a></h2>
+<p align="left">Este projeto está licenciado sob a Licença MIT.</p>
