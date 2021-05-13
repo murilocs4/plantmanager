@@ -17,7 +17,7 @@
 
 <p align="center">🚀 Aplicativo para lembrar de regar as plantas, desenvolvido com tecnologias:</p>
  
-<h4 align="center"> 
+<h4 align="left"> 
 	#Tecnologias
 </h4>
  <ul>
