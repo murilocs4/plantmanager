@@ -7,9 +7,8 @@
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
+ <a href="#intalacao">Instalação</a> • 
  <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
@@ -18,10 +17,8 @@
   <img alt="Plantmanager" title="#Plantmanager" src="./assets/plantmanager-preview.png" />
 </h1>
 
-<h4 align="center"> 
-	#Objetivo
-</h4>
-<p align="center">🚀 Aplicativo para lembrar de regar as plantas, desenvolvido com tecnologias:</p>
+<h2>Objetivo<a name="objetivo"></a></h2>
+<p align="left">🚀 Aplicativo para lembrar de regar as plantas, desenvolvido com tecnologias:</p>
  
 <h4 align="center"> 
 	#Tecnologias
