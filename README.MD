@@ -8,7 +8,7 @@
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#intalacao">Instalação</a> • 
+ <a href="#instalação">Instalação</a> • 
  <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
@@ -45,3 +45,13 @@
         </a>
     </li>
 </ul>
+<h2>Instalação<a name="instalação"></a></h2>
+<p align="left"> $ git clone https://github.com/murilocsfloripa/plantmanager.git && cd plantmanager
+# Instale as dependencias
+$ yarn install
+
+# Inicie o rojeto
+$ expo start
+
+ </p>
+
