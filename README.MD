@@ -1,12 +1,12 @@
  Nome do Projeto
 
-<h1 align="center"> Plant Manager</h1>
+
 <h1 align="center">
   <img alt="Plantmanager" title="#Plantmanager" src="./assets/logo.svg" />
 </h1>
 
-Descrição do Projeto
-<p align="center">Desenvolvimento de app para </p>
+## Descrição do Projeto
+<p align="center">Desenvolvimento de app para lembrar de regar as plantas </p>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
